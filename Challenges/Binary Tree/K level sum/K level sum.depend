@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597768555 source:e:\coding blocks c++ course\challenges\binary tree\k level sum\main.cpp
+	<bits/stdc++.h>
+	<queue>
+	<string>
+

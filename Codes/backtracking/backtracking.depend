@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590477260 source:e:\c++ files\c++ launchpad course\backtracking\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<string>
+	<cstring>
+

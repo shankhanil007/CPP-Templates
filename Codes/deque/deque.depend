@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592644718 source:e:\c++ files\c++ launchpad course\deque\main.cpp
+	<iostream>
+	<string>
+	<deque>
+	<unordered_map>
+

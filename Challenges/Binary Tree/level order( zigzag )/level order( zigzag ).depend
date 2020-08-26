@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597765762 source:e:\coding blocks c++ course\challenges\binary tree\level order( zigzag )\main.cpp
+	<bits/stdc++.h>
+	<queue>
+	<vector>
+	<string>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598286251 source:e:\coding blocks c++ course\codes\heaps\join_the_ropes_problem\main.cpp
+	<iostream>
+	<queue>
+

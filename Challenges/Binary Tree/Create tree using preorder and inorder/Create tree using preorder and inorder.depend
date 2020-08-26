@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597760816 source:e:\coding blocks c++ course\challenges\binary tree\create tree using preorder and inorder\main.cpp
+	<bits/stdc++.h>
+	<queue>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598353859 source:e:\coding blocks c++ course\challenges\heaps\running median in a integer stream\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<bits/stdc++.h>
+

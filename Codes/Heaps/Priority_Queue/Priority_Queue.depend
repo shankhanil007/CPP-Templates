@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1598272205 source:e:\coding blocks c++ course\codes\heaps\priority_queue\main.cpp
+	<iostream>
+	<queue>
+
