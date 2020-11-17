@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1599126710 source:e:\coding_blocks_cpp_course\cp_saviour\codes\hashing\class implementation\main.cpp
+	<iostream>
+	<cstring>
+	"main.h"
+
+1599126746 e:\coding_blocks_cpp_course\cp_saviour\codes\hashing\class implementation\main.h
+	<iostream>
+	<cstring>
+
